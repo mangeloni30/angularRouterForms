@@ -63,7 +63,7 @@
           type="tel" 
           #phone="ngModel" 
           required
-          pattern="\d{3}[\-]\d{3}[\-]\d{4}"
+          pattern="1?-?\.?\(?\d{3}[\-\)\.\s]?\d{3}[\-\.\s]?\d{4}"
           class="form-control"
           [class.is-invalid]="phone.invalid && phone.touched"
           [class.is-valid]="!phone.invalid && phone.touched"
