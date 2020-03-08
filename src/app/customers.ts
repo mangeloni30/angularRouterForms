@@ -1,0 +1,61 @@
+export const customers = [{
+    'Id': 'ALFKI',
+    'name': 'Martin',
+    'lastname': 'Angeloni',
+    'bornDate': '07-11-90',
+    'email': 'angelonimartin90@gmail.com'
+}, {
+    'Id': 'ANATR',
+    'name': 'Hernan',
+    'lastname': 'Berroja Albiz',
+    'bornDate': '17-11-90',
+    'email': 'hernan@leniolabs.com'
+}, {
+    'Id': 'ANTON',
+    'name': 'Scarlett',
+    'lastname': 'Pacheco',
+    'bornDate': '12-07-92',
+    'email': 'scarlett.pacheco@leniolabs.com'
+}, {
+    'Id': 'AROUT',
+    'name': 'Steve',
+    'lastname': 'Bauer',
+    'bornDate': '10-07-84',
+    'email': 'random@leniolabs.com'
+}, {
+    'Id': 'BERGS',
+    'name': 'Tony',
+    'lastname': 'Almeida',
+    'bornDate': '10-07-80',
+    'email': 'almeida@leniolabs.com'
+}, {
+    'Id': 'BLAUS',
+    'name': 'Kimberly',
+    'lastname': 'Bauer',
+    'bornDate': '10-02-88',
+    'email': 'kym@leniolabs.com'
+}, {
+    'Id': 'BLONP',
+    'name': 'Jack',
+    'lastname': 'Bauer',
+    'bornDate': '09-01-75',
+    'email': 'jack@leniolabs.com'
+}, {
+    'Id': 'BOLID',
+    'name': 'Kiefer',
+    'lastname': 'Sutherland',
+    'bornDate': '09-01-75',
+    'email': 'sutherland@leniolabs.com'
+}, {
+    'Id': 'BONAP',
+    'name': 'Hector',
+    'lastname': 'Zalazar',
+    'bornDate': '09-01-71',
+    'email': 'zalazar@leniolabs.com'
+}, {
+    'Id': 'BOTTM',
+    'name': 'Julio',
+    'lastname': 'Berbeek',
+    'bornDate': '09-01-71',
+    'email': 'berbeek@leniolbas.com'
+}];
