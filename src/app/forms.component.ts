@@ -9,7 +9,7 @@ import { FormsModule }   from '@angular/forms';
 export class FormsComponent {
   title = 'formsRouter';
   FormsModule
-  userModel = new User('', '', null, '', '', '');
+  userModel = new User('', '', null, '', '', '', '');
   submitData(){
     window.location.replace('/kendo');
   }
